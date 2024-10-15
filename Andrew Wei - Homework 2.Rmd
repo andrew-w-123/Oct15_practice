@@ -132,4 +132,4 @@ For this assignment, we were given a spreadsheet that had the profile of every c
 
 If one is searching for more information regarding leprosy, visiting the [International Leprosy Association](https://leprosyhistory.org/) may answer further questions and provide access readings, studies, or more about leprosy.
 
-This is an edit made via GitHub
+This is an edit made via GitHub :)
